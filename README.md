@@ -58,11 +58,15 @@ Column Title | Description
 
 ## Sentiment Composition
 
-<img src="./assets/overview.png" alt="Image Not Found" width="650"/>
+<img src="./assets/sentimentComposition.PNG" alt="Image Not Found" width="350"/>
+
+## Experiments
+
+The `.pynb` notebooks for the automated data filtering and sentiment classification models can be found in the `notebooks` directory.
 
 ## Results
 
-<img src="./assets/overview.png" alt="Image Not Found" width="650"/>
+<img src="./assets/performance.PNG" alt="Image Not Found" width="600"/>
 
 ## Citation
 
