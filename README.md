@@ -74,14 +74,19 @@ The `.pynb` notebooks for the automated data filtering and sentiment classificat
 If you find this work useful, please cite our paper:
 
 ```bib
-@misc{alam2024bnsentmixdiversebengalienglishcodemixed,
-      title={BnSentMix: A Diverse Bengali-English Code-Mixed Dataset for Sentiment Analysis}, 
-      author={Sadia Alam and Md Farhan Ishmam and Navid Hasin Alvee and Md Shahnewaz Siddique and Md Azam Hossain and Abu Raihan Mostofa Kamal},
-      year={2024},
-      eprint={2408.08964},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2408.08964}, 
+@inproceedings{alam-etal-2025-bnsentmix,
+    title = "{B}n{S}ent{M}ix: A Diverse {B}engali-{E}nglish Code-Mixed Dataset for Sentiment Analysis",
+    author = "Alam, Sadia  and Ishmam, Md Farhan  and Alvee, Navid Hasin  and Siddique, Md Shahnewaz  and
+      Hossain, Md Azam  and Kamal, Abu Raihan Mostofa", editor = "Hettiarachchi, Hansi  and
+      Ranasinghe, Tharindu  and Rayson, Paul  and Mitkov, Ruslan  and Gaber, Mohamed  and
+      Premasiri, Damith  and Tan, Fiona Anting  and Uyangodage, Lasitha",
+    booktitle = "Proceedings of the First Workshop on Language Models for Low-Resource Languages",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.loreslm-1.4/",
+    pages = "68--77"
 }
 ```
 
